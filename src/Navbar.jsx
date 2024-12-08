@@ -6,7 +6,7 @@ import { Link } from 'react-scroll'
 const Navbar = () => {
   return (
     <div >
-        <div className="bg-gray-800 w-full h-auto p-3 flex justify-between text-center flex-wrap">
+        <div  className="bg-gray-800 w-full h-auto p-3 flex justify-between text-center flex-wrap">
         <div className="flex gap-1  ">
            <img className="w-8 h-8 rounded-full" src="./src/images/logo.jpg" alt="" />
             <h3 className="text-2xl font-bold text-yellow-200 ">Bakery</h3>

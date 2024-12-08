@@ -1,8 +1,8 @@
-import About from "./About"
-import Contact from "./Contact"
-import Footer from "./footer"
-import Hero from "./Hero"
-import Navbar from "./Navbar"
+import About from "./About,jsx"
+import Contact from "./Contact,jsx"
+import Footer from "./Footer.jsx"
+import Hero from "./Hero.jsx"
+import Navbar from "./Navbar.jsx"
 // import { Route } from "react-router-dom"
 // import { Routes } from "react-router-dom"
 
@@ -14,7 +14,7 @@ function App() {
       <Hero/>
       <About/>
       <Contact/>
-     <Footer/>
+      <Footer/>
     
     </>
   

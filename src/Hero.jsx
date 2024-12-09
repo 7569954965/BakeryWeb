@@ -9,7 +9,7 @@ const Hero = () => {
             </h1>
         </div>  
         <div>
-            <img className='rounded-full md:rounded-lg h-64' src="./src/images/cake.jpg" alt="" />
+            <img className='rounded-full md:rounded-lg h-64' src="src/images/cake.jpg" alt="" />
         </div>
     </div>
   )

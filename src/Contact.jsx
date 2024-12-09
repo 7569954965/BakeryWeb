@@ -48,7 +48,7 @@ const Contact = () => {
 const data = [
     {
       name: "Alice Johnson",
-      img: "./src/images/slider1.jpeg",
+      img: "src/images/slider1.jpeg",
       contactnum: "+1234567890",
       desc: "A software developer with a passion for creating efficient algorithms.",
 
@@ -56,21 +56,21 @@ const data = [
     },
     {
       name: "Bob Smith",
-      img: "./src/images/slider2.jpeg",
+      img: "src/images/slider2.jpeg",
       contactnum: "+1987654321",    
       desc: "A data scientist specializing in machine learning and big data analysis.",
 
     },
     {
       name: "Catherine Green",
-      img: "./src/images/slider3.jpeg",
+      img: "src/images/slider3.jpeg",
       contactnum: "+1122334455",
       desc: "A project manager with expertise in coordinating large-scale IT projects.",
 
     },
     {
       name: "David Lee",
-      img: "./src/images/slider4.jpeg",
+      img: "src/images/slider4.jpeg",
       contactnum: "+1223344556",
       desc: "A cybersecurity expert focused on securing digital systems and networks.",
 
@@ -78,7 +78,7 @@ const data = [
     },
     {
       name: "Eva Brown",
-      img: "./src/images/slider5.jpeg",
+      img: "src/images/slider5.jpeg",
       contactnum: "+1445566778",
       desc: "A UI/UX designer passionate about creating intuitive interfaces.",
 

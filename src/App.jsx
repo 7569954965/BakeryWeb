@@ -1,5 +1,5 @@
 import About from "./About.jsx"
-import Contact from "./Contact,jsx"
+import Contact from "./Contact.jsx"
 import Footer from "./Footer.jsx"
 import Hero from "./Hero.jsx"
 import Navbar from "./Navbar.jsx"

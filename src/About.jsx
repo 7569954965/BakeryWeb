@@ -21,13 +21,13 @@ const About = () => {
                 </div>
                 <div className='flex gap-2 justify-center items-center'>
                     <div >
-                        <img className='w-24 h-24' src="src/images/about1.jpeg" alt="" />
+                        <img className='w-24 h-24' src="/src/images/about1.jpeg" alt="" />
                         <h1 className='font-bold'>100% HEALTHY</h1>
                         <p className='text-gray-500 font-thin'>Real food is one ingredient, created by Mother Nature, and comes from a plant or an animal.</p>
 
                     </div>
                     <div>
-                        <img className='w-24 h-24' src="src/images/about2.jpeg" alt="" />
+                        <img className='w-24 h-24' src="/src/images/about2.jpeg" alt="" />
                         <h1 className='font-bold'>AWARD WINNING</h1>
                         <p className='text-gray-500 font-thin'>The awards play an important role in showing gratitude to the individuals.</p>
 
